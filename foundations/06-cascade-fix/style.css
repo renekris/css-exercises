@@ -36,3 +36,31 @@ div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
 }
+
+.para {
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.para.small-para {
+  font-size: 15px;
+}
+
+.button {
+  font-size: 25px;
+}
+
+.button.confirm {
+  color: white;
+  background-color: green;
+  font-weight: 900;  
+}
+
+.text {
+  font-weight: 200;
+}
+
+.text .child {
+  font-size: 15px;
+  font-weight: 900;
+}
