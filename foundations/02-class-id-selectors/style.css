@@ -1,0 +1,19 @@
+.odd-class {
+    background-color: palevioletred;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#first-id {
+    color:blue;
+    font-size: 36px;
+}
+
+.font-size {
+    font-size: 24px;
+}
+
+#second-id {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
