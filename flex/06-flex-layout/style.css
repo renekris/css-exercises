@@ -25,3 +25,46 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.header ul,
+.footer ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+}
+
+.footer {
+  background-color: #e7ebeb;
+  margin: auto 0px 0px 0px;
+  padding: 20px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  padding: 10px;
+}
